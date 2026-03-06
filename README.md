@@ -1,2 +1,2 @@
 # lluvias
-pruebas para mostrar lluvias
+visor leaflet para visualizar previsiones de tiempo
